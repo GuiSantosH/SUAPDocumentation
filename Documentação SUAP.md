@@ -1,5 +1,14 @@
-﻿# Documentação
-Essa documentação foi feita a partir dos módulos da documentação original do SUAP (https://ifpr.edu.br/suap-docs). Foram adicionadas informações que achamos ser necessárias para o melhor aproveitamento da plataforma pelos alunos. Essa documentação foi feita pela linguagem de marcação MarkDown e exportado em um arquivo HTML. A documentação está hospedada no Github Pages, na conta de Guilherme S Holm podendo ser acessada através do link: .
+﻿# Navegação rápida
+- [Documentação](documentação)
+- [Tecnologia da Informação](#tecnologia-da-informação)
+	- [Configurações da plataforma](#configurações-da-plataforma) 
+		- [Mudança de TEMAS](#mudança-de-temas)
+- [Atividades Estudantis](#atividades-estudantis)
+	- [Verificar faltas nas disciplinas](#verificar-faltas-nas-disciplinas)
+	- [Ver avaliações agendadas](#ver-avaliações-agendadas)
+
+# Documentação
+Essa documentação foi feita a partir dos módulos da documentação original do SUAP (https://ifpr.edu.br/suap-docs). Foram adicionadas informações que achamos ser necessárias para o melhor aproveitamento da plataforma pelos alunos. Essa documentação foi feita pela linguagem de marcação MarkDown e exportado em um arquivo HTML. A documentação está hospedada no Github Pages, na conta de Guilherme S Holm podendo ser acessada através do link: [Github Pages](https://guisantosh.github.io/SUAPDocumentation/).
 
 # Tecnologia da Informação
 ## Configurações da plataforma
