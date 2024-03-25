@@ -31,7 +31,7 @@ Ao entrar na disciplina que deseja visualizar as faltas, acessamos a aba aulas m
 Podemos também verificar o total de faltas pelo caminho Ensino > Boletins, irá abrir a visualização do total de faltas com a porcentagem de frequência.
 ![faltas_suap4](https://i.imgur.com/YLMoEQ9.png)
 
-### Ver avaliações agendadas.
+### Ver avaliações agendadas
 No suap é possível ver nosso calendário de provas. Para isso basta acessarmos a aba lateral esquerda em Ensino > Minhas avaliações. Após isso abrirá um calendário mensal onde mostrará as matérias onde possui provas com datas especificas.
 ![provas_suap](https://i.imgur.com/GDs1ol3.png)
 
